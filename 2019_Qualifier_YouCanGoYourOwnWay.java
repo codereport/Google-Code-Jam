@@ -1,4 +1,4 @@
-// code_report
+// code_report Solution
 // Video Link: https://youtu.be/SIRDTt89zKk
 // Problem Link: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/00000000000881da
 
